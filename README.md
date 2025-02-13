@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timothy Kumah and welcome to my repo
 - 👀 I’m interested in backend/devops technologies
-- 🌱 I’m currently learning c# dotnet with a graph database
+- 🌱 I’m currently working on a laravel project but c# will still be my first
 - 💞️ I’m looking to collaborate as a backend
 - 📫 How to reach me  => timothy.hobbs.kumah@gmail.com
 - ⚡ Fun fact: Did you know that the first computer bug was a literal bug? In 1947, Grace Hopper, an American computer scientist, found a moth trapped inside the Harvard Mark II computer.
